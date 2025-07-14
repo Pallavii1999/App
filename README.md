@@ -1,7 +1,6 @@
 # App
 
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <title>Paste Screenshot and Extract Text for Excel (Tabular)</title>
